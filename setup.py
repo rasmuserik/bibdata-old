@@ -7,7 +7,7 @@ setup(
   author = 'RasmusErik Voel Jensen',
   author_email = 'pypi@solsort.com',
   url = 'https://github.com/rasmuserik/bibdata',
-  download_url = 'https://github.com/rasmuserik/bibdata/archive/0.0.1.tar.gz',
+  download_url = 'https://github.com/rasmuserik/bibdata/archive/v0.0.1.tar.gz',
   keywords = ['bibliographic', 'example'],
   classifiers = [],
 )
