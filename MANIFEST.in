@@ -1,0 +1,3 @@
+include bibdata/content-first.json.gz
+include bibdata/genre-space.npy
+include bibdata/meta.json.gz

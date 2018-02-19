@@ -1,0 +1,3 @@
+All code here is can be used under MIT or GPL license
+
+The sample data, is based on data from hack4dk (http://hack4.dk) open cultural data hackathon. 
